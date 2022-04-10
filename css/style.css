@@ -1,0 +1,14 @@
+/*p{font-family: Georgia, 'Times New Roman', Times, serif;font-size: medium;}
+h1{color: black;}
+h2{color: rgb(1, 26, 26);}
+body{background: linear-gradient(72deg, #ffffff 1%, #baa7e4 99%);}
+img {width: 700px;}*/
+
+p{font-family: Georgia, 'Times New Roman', Times, serif;font-size: medium;margin-left: 150px;margin-right: 150px;}
+h1{color: black;text-align: center;font-size: 40px;color: rgb(3, 56, 56);}
+h2{color: rgb(0, 0, 0);text-align: center}
+img {width: 700px;display: block; margin-left: auto;margin-right: auto;}
+#bandeira{width: 500px;display: block; margin-left: auto;margin-right: auto;}
+#prefeito{width: 500px;display: block; margin-left: auto;margin-right: auto;}
+ul{color: rgb(1, 26, 26); margin-left: 150px;margin-right: 150px; list-style-type:square;}
+body{background-color: rgb(220, 238, 253);}
